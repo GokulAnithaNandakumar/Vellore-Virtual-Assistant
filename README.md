@@ -181,6 +181,14 @@ python assistant_api.py
 ```bash
 cd assistant-api-backend
 
+# Configure application properties
+cp src/main/resources/application.properties.template src/main/resources/application.properties
+
+# Edit application.properties with your actual credentials:
+# - MongoDB connection string
+# - JWT secret key
+# ⚠️ NEVER commit application.properties to version control!
+
 # Build the project
 ./mvnw clean install
 

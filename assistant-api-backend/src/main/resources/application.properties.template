@@ -1,0 +1,13 @@
+spring.application.name=assistant-api
+
+# MongoDB connection
+spring.data.mongodb.uri=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/YOUR_DATABASE?retryWrites=true&w=majority&appName=YOUR_APP_NAME
+
+# JWT secret (MUST use environment variable in production)
+jwt.secret=YOUR_JWT_SECRET_KEY_HERE
+jwt.expiration=86400000
+
+# Instructions:
+# 1. Copy this file to application.properties
+# 2. Replace all YOUR_* placeholders with actual values
+# 3. Never commit application.properties to version control
