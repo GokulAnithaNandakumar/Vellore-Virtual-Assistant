@@ -314,19 +314,11 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Vellore Tourism Department** for providing local insights
-- **OpenAI Community** for RAG implementation patterns
-- **Ollama Project** for local LLM capabilities
-- **Contributors** who help improve this project
-
 ## 📞 Support
 
 For questions, issues, or suggestions:
 
 - **Issues**: [GitHub Issues](https://github.com/GokulAnithaNandakumar/Vellore-Virtual-Assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/Vellore-Virtual-Assistant/discussions)
 - **Email**: gokul.nandakumar04@gmail.com
 
 ---
